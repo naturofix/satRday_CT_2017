@@ -2,7 +2,9 @@
 title: "first_Markdown"
 author: "Shaun Garnett"
 date: "16 February 2017"
-output: github_document
+output: 
+  github_document:
+  #keep md: allows you to keep the md format as well, check the code
 ---
 
 ```{r setup, include=FALSE}
