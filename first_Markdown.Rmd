@@ -4,6 +4,7 @@ author: "Shaun Garnett"
 date: "16 February 2017"
 output: 
   github_document:
+  word_document:
   keep md: TRUE # allows you to keep the md format as well, check the code
 ---
 
